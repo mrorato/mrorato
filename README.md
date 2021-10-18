@@ -1,16 +1,21 @@
-### Hi there 👋
+# Milton Rorato
 
-<!--
-**mrorato/mrorato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi 👋
+Sou formado em Técnico em Informática pela UFSM, e atualmente estou cursando  Tecnologia em Sistemas para Internet pela UFSM, tenho experiência com desenvolvimento WEB a mais de 5 anos.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+FullStack Developer :computer:
+
+ :rocket: &nbsp; Atualmente trabalho com freelancer.
+ <br/> :purple_heart: &nbsp; Busco sempre estar me atualizando na programação, aprendendo novas técnicas, fazendo cursos e lendo artigos.
+ <br/> 💻 &nbsp; Minha stack atual: Laravel com MySql, VueJS.
+ <br/> :blush: &nbsp; Tenho conhecimento também em stacks utilizando: ReactJS, React Native, Postgresql.
+ <br/> 💬 &nbsp; Sobre mim: Curto tecnologias, games e seriados no Netflix.
+ <br/> 📩 &nbsp; Entre em contato comigo: 
+ 
+ [![Linkedin Badge](https://img.shields.io/badge/-MiltonRorato-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tabordamarcos/)](https://www.linkedin.com/in/miltonrorato/) 
+
+![Milton Rorato github stats](https://github-readme-stats.vercel.app/api?username=mrorato&count_private=true&show_icons=true&theme=dark&hide=stars)
+
+
+![Milton Rorato TopLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrorato&layout=compact)
