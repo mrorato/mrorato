@@ -8,7 +8,7 @@ FullStack Developer :computer:
 
  :rocket: &nbsp; Atualmente trabalho com freelancer.
  <br/> :purple_heart: &nbsp; Busco sempre estar me atualizando na programação, aprendendo novas técnicas, fazendo cursos e lendo artigos.
- <br/> 💻 &nbsp; Minha stack atual: Laravel com MySql, VueJS.
+ <br/> 💻 &nbsp; Minha stack atual: Laravel com MySql, NodeJS/AdonisJS.
  <br/> :blush: &nbsp; Tenho conhecimento também em stacks utilizando: ReactJS, React Native, Postgresql.
  <br/> 💬 &nbsp; Sobre mim: Curto tecnologias, games e seriados no Netflix.
  <br/> 📩 &nbsp; Entre em contato comigo: 
